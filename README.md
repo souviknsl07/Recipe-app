@@ -1,4 +1,4 @@
-Recipe App
+# Recipe App
 ![recipe](https://user-images.githubusercontent.com/53038576/120111419-84f40200-c18f-11eb-977f-f7186459646b.png)
 
 ### Follow the steps below to install it on your local machine.
